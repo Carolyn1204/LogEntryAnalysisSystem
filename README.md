@@ -14,3 +14,11 @@ DataSet comprises 1,000,000 log entries. Each log entry is formatted consistentl
 
 • Frequency Analysis of Log Entries: Analyze and display the frequency of occurrences for different types of log entries (e.g., based on log level or specific error messages).
 
+# Contributing
+This project is for demonstration purposes, but contributions are welcome. If you have suggestions or improvements, feel free to fork the repository, make your changes, and create a pull request.
+
+# License
+This project is not currently licensed. It is for educational purposes and demonstration only. Use it as a reference and exercise in object-oriented programming.
+
+# Contact
+If you have any questions or feedback, you can reach out to me:
